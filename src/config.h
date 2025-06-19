@@ -1,4 +1,6 @@
-#define DIGITAL_PIN_1 19
-#define DIGITAL_PIN_2 18
-#define DIGITAL_PIN_3 5
-#define DIGITAL_PIN_4 17
+#define PIN_UP 19
+#define PIN_RIGHT 18
+#define PIN_DOWN 5
+#define PIN_LEFT 17
+
+#define NUM_BUTTONS 4
