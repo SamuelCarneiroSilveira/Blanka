@@ -1,0 +1,4 @@
+#define DIGITAL_PIN_1 19
+#define DIGITAL_PIN_2 18
+#define DIGITAL_PIN_3 5
+#define DIGITAL_PIN_4 17
